@@ -1,0 +1,13 @@
+body{
+    font-size: 200px;
+}
+p{
+    background-color: #0BF;
+    font-size: 80%;
+    /* font-size: 110px; */
+    /* (red, green, blue, saturação) */
+    /* #000000 */
+    /* 0  até 255  */
+    /*
+    hexadecimal 0 até a letra F  */
+}
