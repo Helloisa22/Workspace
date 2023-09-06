@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+/* .conjunto1 {
+    color: brown;
+}
+
+.conjunto2 {
+    color: blue;
+}
+
+.DentroDaDiv{
+    font-weight: 900;
+    background-color: dodgerblue;
+}
+
+
+.outraClasse{
+    background-color: crimson;
+} */
+
+
+/*Comentario em bloco*/
+/* Trabalhando com IDs */
+.conjuntoTga1{
+    color: aquamarine;
+}
+
+.conjuntoTga2{
+    color: brown;
+}
+
+.conjuntoTga3{
+    color: indigo;
+}
+
+#UnicoAmarelo{
+    color: yellow;
+}
+
+#UnicoRosa{
+    color: palevioletred;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+}
+
+section p{
+    color: green;
+}
+
+section #ultimaAlteracao{
+    color: blue;
+}

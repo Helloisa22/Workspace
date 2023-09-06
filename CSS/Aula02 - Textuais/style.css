@@ -1,9 +1,14 @@
-body{
-    font-size: 200px;
+h1{
+    background-color: cornflowerblue;
+    text-shadow: 1px 1px  #8B0000;
 }
+
 p{
     background-color: #0BF;
-    font-size: 80%;
+    line-height: 200%;
+    font-style: italic;
+    font-weight: 900;/* 100 até 900 */
+    /* font-size: 80%; */
     /* font-size: 110px; */
     /* (red, green, blue, saturação) */
     /* #000000 */
