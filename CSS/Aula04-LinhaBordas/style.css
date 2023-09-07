@@ -1,0 +1,33 @@
+#primeiraDiv{
+    /* grossura da borda / estilo borda / cor da borda */
+    border: 2px dashed #7FFFD4;
+}
+
+#segundaDiv{
+    border: 2px dotted rgb(210,105,30);
+}
+
+/* Ajustando largura e altura da imagem */
+/* img{
+    width: 500px;    Largura 
+    height: 500px;  Altura 
+} */
+
+#foto1{
+    width: 200px;
+    height: 300px;
+}
+
+#foto2{
+    width: 200px;
+    height: 200px;
+}
+
+/* Imagem de fundo utilizando atributo background-image */
+body{
+    background-image: url("img/outro-ceu.jpg");
+    background-position: 600px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 500px 500px;
+}
