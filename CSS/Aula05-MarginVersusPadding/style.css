@@ -1,0 +1,40 @@
+/* Colocar borda nas divs de um 1px solid cor de sua escolha */
+/* topo = 10px direita = 4px base = 7px esquerda = 40px 
+margin
+*/
+
+div{
+    border: 1px solid #000000;
+    /* aplicando de forma individual */
+    /*margin-top: 10px;  topo = 10px */
+    /*margin-right: 100px;  direita = 50px */
+    /*margin-bottom: 25px;  base = 50px */
+    /*margin-left: 50px ;  esquerda = 50px */
+
+    /* aplicando de forma geral */
+    /*      T     D    B   E */
+    margin: 10px 100px 0 50px;
+}
+
+/* colocar uma borda no paragrafo 1px solid cor de sua escolha */
+p{
+    border: 1px solid orangered;
+    /* padding-top: 150px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+    padding-left: 200px; */
+    /* top/ bottom    right/left */
+    padding: 150px 200px;
+    margin: 50px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    padding: 50px;
+    
+}
+
+
+
+
