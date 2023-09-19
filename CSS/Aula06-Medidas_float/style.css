@@ -11,8 +11,25 @@
 }
 
 /* 500 / 50 = 250*/
-p{
+/* p{
     background-color: aqua;
     width: 50vw; 
     height: 50vh;
+} */
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+/* #primeiraImagem{
+    float: right;
+} */
+
+#paragrafo{
+    clear: right;
+}
+
+#segundaImagem{
+    float: left;
 }
