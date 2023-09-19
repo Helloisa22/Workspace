@@ -1,0 +1,16 @@
+.pai{
+    border: solid 1px #000;
+    background-color: purple;
+
+    /* flexbox */
+    display: flex;
+    /* flex-direction: column-reverse; */
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.itens{
+    border: 1px solid #000;
+    background-color: orange;
+    width: 200px;
+}
