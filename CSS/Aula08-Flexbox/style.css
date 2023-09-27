@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+}
+
+#container{
+    display: flex;
+    /* flex-direction: column; */
+    /* flex-wrap: wrap; */
+    /* justify-content: center; */
+    /* align-items: baseline; */
+    border: 1px solid black;
+    height: 200px;
+}
+
+.filho-2{
+    flex-grow: 4;
+}
+
+.filho-6{
+    flex-grow: 4;
+}
+
+.itens{
+    border: 1px solid blue;
+    /* margin: 5rem; */
+}
