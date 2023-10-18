@@ -1,0 +1,63 @@
+var alunosAprovados
+
+const alunoseAprovadosIos = "EDUARDO"
+
+let reprovação
+
+
+
+let nomeDeUmCantor = "mc cabelinho"
+
+
+
+var nomeAluno = "Felipe"
+
+
+nomeAluno = "Alexsandro"
+
+let primeirolugar = "Mikael"
+
+primeiroLugar = 'Anna Clara'
+
+var numeroAleatorio;
+
+calculadora ---  9 // 2
+var numero1;
+
+var numero2;
+
+numero2 = 2
+
+
+
+
+var numero = 'Choro dos alunos' // Javascript - Tipagem Fraca
+
+
+char numero ='C' // JAVA -- Tipagem Forte
+
+
+var numeroInteiro = 3,14
+
+
+
+
+
+
+
+Concatenar - ato de juntar duas ou mais Strings
+
++
+
+
+
+(4 + 5) / 2
+
+
+
+
+
+
+
+
+
