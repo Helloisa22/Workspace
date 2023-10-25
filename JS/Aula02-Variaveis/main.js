@@ -78,14 +78,17 @@ console.log("2 é menor que 3? " + comparacao) // true  / false
 console.clear()
 
 
-var doisSinaisDeIgual = 3 == "três"
+var doisSinaisDeIgual = 3 === 3
 
 console.log(doisSinaisDeIgual)
 
-// texto, numero
+//                                     false   false     true
+//big mac ser considerado completo = alface e queijo ou picles == true 
+
+
 // ===
-// 3 == 5 // true   ou
-// numerico = numerico // false
+// 3 == 3 // true   &
+// numerico = numerico // true        = true
 
 console.clear()
 

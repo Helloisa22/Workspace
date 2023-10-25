@@ -1,1 +1,40 @@
 Aula CSS 1, 2, 4, 5, 9.
+
+
+
+var texto1 = "Texto bem aleatorio dos atrasados da volta da pausa"
+
+var texto2 = "Texto bem aleatorio dos atrasados da volta da pausa"
+
+
+console.log(texto1 + "texto aleatorio" + " " + texto2)
+
+console.log("texto")
+
+// template String
+console.log(`${texto1} texto aleatorio ${texto2}`)
+
+
+
+"5" = caracter
+"KKKKKKKKK" = String
+
+
+
+
+
+
+
+var = "M o z i l l a"
+       0 1 2 3 4 5 6 7
+
+(2, 4
+
+
+
+
+
+
+
+
+
