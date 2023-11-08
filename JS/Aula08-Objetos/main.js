@@ -51,13 +51,24 @@ console.log(contexto)
 console.clear()
 
 
-const celular = {
-    marca: 'Apple',
-    modelo: 'Iphone 15 pro Max',
-    cor: 'Rosa',
-    memoria: '512gb',
-    memoriaRam: '16gb'
+const pessoa = {
+    corDosOlhos: '',
+    altura: '',
+    corDoCabelo: '',
+    peso: '',
+    tamanhoDoPe: '',
+    corDaPele: '',
+    comprimentoUnha: '',
+    doencas: ''
 }
+
+
+
+
+
+
+
+
 
 console.log(celular)
 
