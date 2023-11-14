@@ -47,4 +47,3 @@ const Nome = () =>{
 
 evento.addEventListener('click', Nome)
 // O nome do evento, callback(funcao), opcional true/false
-
