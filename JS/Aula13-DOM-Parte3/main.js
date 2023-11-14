@@ -41,8 +41,8 @@ const Nome = () =>{
     let recebeNome = document.querySelector('#recebeNome')
     let mostraNome = document.querySelector('#mostraNome')
 
-    mostraNome.innerHTML = `Olá ${recebeNome.value} Bem-vindo a nossa academia`
-
+    mostraNome.innerHTML = `Olá ${recebeNome.value} Bem-vindo a nossa academia, seu bocoooo`
+    
 }
 
 evento.addEventListener('click', Nome)
