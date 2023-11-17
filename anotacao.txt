@@ -35,6 +35,20 @@ var = "M o z i l l a"
 
 
 
+Exercicio React
+
+
+Crie um projeto em React com o nome primeiro-site-web, você devera criar os seguintes componentes:
+Cabeçalho onde deve conter um titulo h1 com o texto "Aprendendo React" (Centralize o texto no topo da pagina) crie três botoes o primeiro com o texto Botão1, o segundo com o texto Botão2 e o terceiro com o texto Botão3.
+
+Principal onde deve conter um paragrafo com o texto "Estou participando do curso de IOS com o objetivo de adquirir conhecimentos fundamentais na área de desenvolvimento front-end. Meu intuito é aprender a colaborar eficientemente em projetos de equipe, aprimorar minhas habilidades de comunicação e, a longo prazo, evoluir como desenvolvedor." (O tamanho do texto deve estar em 2rem; cor roxa; cor de fundo laranja); Uma lista com top 5 filmes que você já assistiu; uma imagem do seu número 1 da lista de filmes.
+
+Rodape onde deve conter seu nome e sobrenome junto a um copy o ano atual (Todo o texto deve estar centralizado na pagina)
+
+(Não finalizado)
+
+
+
 
 
 
